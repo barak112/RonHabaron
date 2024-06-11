@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RonHabaron
-- 🌱 I’m a new programmer
-- 📚 I’m currently learning python
-- 💞️ I’m looking to improve at coding
-- 📫 if you want to reach me my discord is RonHabaron#1205
+- 👋 Hi, I’m @RonHabaron.
+- 🌱 coding since 7th grade.
+- 📚 currently learning cyber (python) at school .
+- 💞️ I’m looking to improve at coding.
+- 📫 if you want to reach out to me, my discord is RonHabaron.
 
 <!---
 barak112/barak112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
